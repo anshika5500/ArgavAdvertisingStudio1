@@ -1,0 +1,15 @@
+{
+  "name": "Argav Advertising Studio",
+  "short_name": "ARGAV",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#03030a",
+  "theme_color": "#03030a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
